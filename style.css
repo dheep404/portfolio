@@ -1,6 +1,5 @@
 html {
     font-family: 'Raleway', sans-serif;
-    margin: 0 0 0 0;
 }
 
 body {
@@ -71,9 +70,20 @@ h2 {
     padding-right: 1em;
 }
 
+
+
 .contact {
     position: absolute;
     right: 10%;
     bottom: 10%;
+
+}
+
+.heading-info {
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    padding-bottom: 6px;
 
 }
