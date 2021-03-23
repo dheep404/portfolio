@@ -6,12 +6,7 @@ body {
 background-image: linear-gradient(to left, rgb(93, 145, 175) , rgb(9, 80, 102));
 }
 
-.banner {
-    width: 100%;
-    background-color: rgb(155, 150, 150);
-    height: 20%;
-  
-}
+
 /* Dheep */
 .name {
     color: white;
@@ -22,28 +17,27 @@ background-image: linear-gradient(to left, rgb(93, 145, 175) , rgb(9, 80, 102));
     padding-bottom: 6px;
 }
 
-/* Generation UK */
-.tag {
-    color: white;
+/* My Pic*/
+.home-image{
     position: absolute;
     right: 10%;
-    top: 10%;
-    border-bottom: white solid 2px;
-    padding-bottom: 6px;
+    top: 8%;
+    border-radius: 50%;
+    border: solid white 2px;
 }
 
 /* List div */
 .list {
     position: absolute;
     top: 20%;
-    left: 8%
+    left: 12%
 }
 
 
 /* list items */
 li {
     list-style: none;
-    font-size: 1.5em;
+    font-size: 1em;
     padding-top: 4vw;
     
 }
@@ -74,8 +68,9 @@ h2 {
 
 .contact {
     position: absolute;
-    right: 10%;
-    bottom: 10%;
+    bottom: 13%;
+    right: 12%;
+    
 
 }
 
