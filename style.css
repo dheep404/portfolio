@@ -21,7 +21,7 @@ body {background-image: linear-gradient(to left, rgb(93, 145, 175) , rgb(9, 80, 
     border: solid white 2px;
 }
 
-/* List div */
+/* List div position */
 .list {
     position: absolute;
     top: 20%;
@@ -57,10 +57,12 @@ h2 {
     padding-right: 1em;
 }
 
-.contact {
+/* linked in Email GitHub */
+.contact {    
     position: absolute;
     bottom: 14%;
     right: 12%;
+    text-align: right;
 }
 
 /* Project infos */
