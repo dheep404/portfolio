@@ -97,3 +97,10 @@ h2 {
     color: white;
 }
 
+.waves-image {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: solid white 5px;
+}
